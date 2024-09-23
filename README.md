@@ -1,7 +1,6 @@
 # Instructions
 
-- Duration : 1 hour
-- Note: open book, open notes, can google, must share screen, no A.I tools
+***Duration : 1 hour, open book, open notes, can google, must share screen, no A.I tools***
     
    - Q1  Create a static method that accepts a whole number
        - Your method print "even" if the number is even, or print "odd" if the number is odd
