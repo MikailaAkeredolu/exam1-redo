@@ -1,4 +1,5 @@
 # Instructions
+## 
     
    - Q1  Create a static method that accepts a whole number
        - Your method print "even" if the number is even, or print "odd" if the number is odd
@@ -39,3 +40,7 @@
   - Q9 Create a method that counts, and returns the number of words in a sentence
 
   - Q10 Create a method that checks and prints weather a year is a leapYear or not!
+
+
+Submit private repo here : https://docs.google.com/spreadsheets/d/1iqcsep2Wp8cUUa8o-lZQISYlHU1eenVcIooObhU9mYo/edit?gid=275660845#gid=275660845
+
