@@ -48,9 +48,10 @@ Int: 42
 
 ***How to submit your exam?***
 - Copy all your code > Visit https://www.online-java.com/ 
-- Paste all your code into the online ide
+- Paste all your code into the Online IDE (make sure your code compiles)
 - Click the share button and choose **never expire**s then copy the link 
 - Paste and send the link to me as a direct message via slack. 
+  
 
 > Finished early? Take a 15 minutes break and work on HW !!!
 
