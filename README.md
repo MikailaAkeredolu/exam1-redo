@@ -30,12 +30,14 @@
 
   - Q10 Create a method that Scans for any 3 values of these data types ***Integer, Double and String** then print out the result as seen below:
 ```
-Sample Input
+**Sample Input**
 
 42
 3.1415
 Hello World!
-Sample Output
+
+
+**Sample Output**
 
 String: Hello World!
 Double: 3.1415
