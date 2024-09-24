@@ -28,8 +28,27 @@
 
   - Q9 Create a static method that checks and prints weather a year such as 2023 or 2024 is a leap year or not!
 
-  - Q10 
+  - Q10 Create a method that Scans for any 3 values of these data types ***Integer, Double and String** then print out the result as seen below:
+```
+Sample Input
+
+42
+3.1415
+Hello World!
+Sample Output
+
+String: Hello World!
+Double: 3.1415
+Int: 42
+
+```
 
 
-***Submit private-repo*** : https://docs.google.com/spreadsheets/d/1iqcsep2Wp8cUUa8o-lZQISYlHU1eenVcIooObhU9mYo/edit?usp=sharing
+***How to Submit your exam?***
+- Copy all your code > Visit https://www.online-java.com/ 
+- Paste all your code into the online ide
+- Click the share button and choose **never expire**s then copy the link 
+- Paste and send the link to me as a direct message via slack. 
+
+> Finished early? Take a 15 minutes break and work on HW !!!
 
