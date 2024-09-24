@@ -15,7 +15,7 @@
        - Make sure you create an array inside main to test out your method.
 
 
-  - Q4 Create a static method that continuously uses a Scanner to ask a user the question: "Are we there yet?"
+  - Q4 Create a static method that continuously uses a Scanner to ask a user this question -> "Are we there yet?"
        - if the user enters "No or no" then continue to ask the same question "Are we there yet?"
        - However, if the user enters "Yes or yes" then stop asking the question, and print "Yes, we are there!"
        - Note: It shouldn't matter if the user entered an uppercase, lowercase or a combination of upper and lower cases letters as their response.
