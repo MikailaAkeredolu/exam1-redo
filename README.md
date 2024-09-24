@@ -4,14 +4,15 @@
 ***Your exam repo MUST be submitted by 12:45pm else zero*** 
     
    - Q1  Create a static method that accepts a whole number
-       - Your method should print the word "even" if the number is even, or print "odd" if the number is odd.
+       - The method should print the word "even" if the whole number is even, or print "odd" if the number is odd.
 
 
-   - Q2 Create a static method to calculate and returns the area of a **trapezium**.
+   - Q2 Create a static method to calculate and return the area of a **Trapezium**.
 
 
   - Q3 Create a static method that accepts an array of whole numbers
-       - Your method should find and return the square root of only the odd numbers in the array.
+       - Your method should find the square root of only the odd numbers in the array.
+       - Make sure you create an array inside main to test out your method.
 
 
   - Q4 Create a static method that continuously uses a Scanner to ask a user the question: "Are we there yet?"
