@@ -6,7 +6,7 @@
        - Your method should print the word "even" if the number is even, or print "odd" if the number is odd.
 
 
-   - Q2 Create a static method to calculate and return the area of a **trapezium**.
+   - Q2 Create a static method to calculate and returns the area of a **trapezium**.
 
 
   - Q3 Create a static method that accepts an array of whole numbers
