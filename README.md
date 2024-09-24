@@ -1,6 +1,7 @@
-# Instructions : open book, notes, can google, must share screen, no A.I tools, keep repos private
+# Instructions : 
+### open book, notes, can google, must share screen, no A.I tools, keep repos private
 
-***Exam MUST be submitted by 12:45pm else zero** 
+***Your exam repo MUST be submitted by 12:45pm else zero*** 
     
    - Q1  Create a static method that accepts a whole number
        - Your method should print the word "even" if the number is even, or print "odd" if the number is odd.
