@@ -46,7 +46,7 @@ Int: 42
 ```
 
 
-***How to Submit your exam?***
+***How to submit your exam?***
 - Copy all your code > Visit https://www.online-java.com/ 
 - Paste all your code into the online ide
 - Click the share button and choose **never expire**s then copy the link 
