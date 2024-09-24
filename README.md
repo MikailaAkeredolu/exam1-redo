@@ -29,7 +29,7 @@
   - Q9 Create a static method that checks and prints weather a year such as 2023 or 2024 is a leap year or not!
 
   - Q10  Create a new branch to work on question number 10. When done merge the branch to Main/Master.
-     - In the new branch, create a method that scans for any 3 values of these specific data types :
+     - In the new branch, create a static method that scans for any 3 values of these specific data types :
      - **Integer, Double and String**. 
      - Your method's job is to simply print out the result as seen and formatted below:
 ```
