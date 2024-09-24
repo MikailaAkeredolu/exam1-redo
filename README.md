@@ -1,6 +1,6 @@
 # Instructions
 
-***Duration : 1 hour, open book, open notes, can google, must share screen, no A.I tools***
+***Duration : 1 hour, open book, open notes, can google, must share screen, no A.I tools, Keep repos private***
     
    - Q1  Create a static method that accepts a whole number
        - Your method should print the word "even" if the number is even, or print "odd" if the number is odd.
@@ -28,7 +28,10 @@
 
   - Q9 Create a static method that checks and prints weather a year such as 2023 or 2024 is a leap year or not!
 
-  - Q10 Create a method that Scans for any 3 values of these data types ***Integer, Double and String** then print out the result as seen below:
+  - Q10  Create a new branch just to work on question number ten. When done merge the branch to Main/Master.
+  - In your new branch, create a method that simply scans for any 3 values of these specific data types :
+    ***Integer, Double and String**. 
+  - Your method's job is to simply print out the result as seen and formatted below:
 ```
 **Sample Input**
 
